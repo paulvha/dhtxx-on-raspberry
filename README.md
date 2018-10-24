@@ -1,4 +1,4 @@
-﻿# version 1.0	initial version  October 2018 2017
+﻿# version 1.0	initial version  October 2018
 
 Copyright (c) 2018 Paul van Haastrecht <paulvha@hotmail.com>
 
